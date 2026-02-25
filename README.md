@@ -116,7 +116,7 @@ Two evaluation metrics were used:
 
 ---
 
-** Visualization:**
+8. Visualization:
 
 A scatter plot was created comparing:
 
@@ -127,7 +127,7 @@ If points are close to the diagonal line → the model performs well.
 
 ---
 
-**Results Interpretation:**
+9. Results Interpretation:
 
 * A higher R² score indicates strong explanatory power.
 * RMSE shows the average prediction error in price units.
@@ -135,7 +135,7 @@ If points are close to the diagonal line → the model performs well.
 
 ---
 
-**Possible Improvements:**
+10. Possible Improvements:
 
 This is a baseline model. Performance can be improved by:
 
@@ -150,7 +150,7 @@ This is a baseline model. Performance can be improved by:
 
 ---
 
-**Project Structure:**
+11. Project Structure:
 
 ```
 House_Price_Prediction.ipynb
